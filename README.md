@@ -7,3 +7,5 @@ This project serves as the backend for a student survey system designed to colle
 - **RESTful API:** Support for creating, retrieving, updating, and deleting survey data.
 - **Database Integration:** Utilizes SQL database to store and manage survey responses securely.
 - **Scalable Architecture:** Built to scale efficiently with increasing data and user load.
+
+**Note**: This code and repository are for showcasing my projects and are not intended for external use.
